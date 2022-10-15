@@ -1,6 +1,6 @@
 # AutomateBrowserProfile
 
-Create new browser profiles quickly in edge
+Create new browser profiles quickly in edge (or any chromium browser as command line args are same)
 
 
 # Usage:
