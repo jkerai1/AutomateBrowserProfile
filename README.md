@@ -2,6 +2,7 @@
 
 Create new browser profiles quickly in edge (or any chromium browser as command line args are same)
 
+Note that the profile isn't created with the name at the minute and instead is named "profile 2", "profile 3" etc, pull requests welcome
 
 # Usage:
 
